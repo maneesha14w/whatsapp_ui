@@ -4,7 +4,7 @@ This is a responsive WhatsApp UI clone made with Flutter for both web and mobile
 
 ## Installation
 
-Click here to use the [web version](https://flutterwhatsappclone.netlify.app/#/), the mobile version can be run from the zip file.
+Click here to use the [web version](https://whatsapp-ui.globeapp.dev/), the mobile version can be run from the zip file.
 
 ## Responsiveness
 

@@ -1,16 +1,21 @@
-# whatsapp_ui
+# Responsive Flutter Whatsapp UI
 
-A new Flutter project.
+This is a responsive WhatsApp UI clone made with Flutter for both web and mobile.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+Click here to use the [web version](https://flutterwhatsappclone.netlify.app/#/), the mobile version can be run from the zip file.
 
-A few resources to get you started if this is your first Flutter project:
+## Responsiveness
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is responsive for both web and mobile. Here are some of the widgets used to make it so: 
+   
+```dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+LayoutBuilder () for switching between web and mobile layouts.
+
+MediaQuery based sizing so it changes according to device.
+
+Nested Rows with Spacers and overall good practices for optimal spacing for any device.
+
+```
